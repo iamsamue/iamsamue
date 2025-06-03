@@ -11,7 +11,7 @@
     <a href="https://github.com/iamsamue">
       <img src="https://img.shields.io/badge/🐙-iamsamue-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://iamsamue.github.io/iamsamue">
+    <a href="https://my-portfolio-opal-mu.vercel.app/">
       <img src="https://img.shields.io/badge/🌐-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
